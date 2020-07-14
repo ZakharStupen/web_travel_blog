@@ -2,7 +2,7 @@
   "name": "nuxt-blog",
   "version": "1.0.0",
   "description": "nuxt-blog",
-  "author": "Vladislav Dudal",
+  "author": "Zakhar Stupen",
   "private": true,
   "scripts": {
     "dev": "cross-env NODE_ENV=development nodemon server/index.js --watch server",
